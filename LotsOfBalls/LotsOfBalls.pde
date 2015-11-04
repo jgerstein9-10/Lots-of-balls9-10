@@ -1,12 +1,4 @@
-//you can also declare and initialize in one line
-// float answer = 42;
 
-//declaring an array called x
-// float[] x;
-
-//initializing an array called x
-// x = new float[size];
-// x = {20, 50, 80};
 
 int count = 2;
 
